@@ -9,6 +9,7 @@
 */.git/*
 */target/*
 /.metadata/
+Servers/*
 
 ### Eclipse ###
 .metadata
