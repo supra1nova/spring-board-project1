@@ -11,6 +11,7 @@
 /.metadata/
 Servers/*
 target/*
+*/db.properties
 
 ### Eclipse ###
 .metadata
